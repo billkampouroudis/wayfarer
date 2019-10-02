@@ -41,6 +41,9 @@ react-native run-android
 
 **Prerequisite: an Android Emulator AVD instance is already started!*
 
+## Design
+
+All the UX design work is done through [Figma](https://www.figma.com). You can request access and participate by joining the project's Slack.
 
 ## Contribute
 
